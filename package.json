@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  },
+  "name": "automationexercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.55.0",
+    "playwright-core": "^1.55.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdiBarnutiu/automationexercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdiBarnutiu/automationexercise/issues"
+  },
+  "homepage": "https://github.com/AdiBarnutiu/automationexercise#readme",
+  "description": ""
+}
